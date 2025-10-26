@@ -1,4 +1,4 @@
-(footprint "FPC_30x01"
+(footprint "kyocera_fpc_01x30"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "FPC_30x01"
+	(property "Value" "kyocera_fpc_01x30"
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
