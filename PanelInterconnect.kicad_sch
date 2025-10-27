@@ -2581,7 +2581,7 @@
 				)
 			)
 		)
-		(property "Value" "Solar_Cell"
+		(property "Value" "Maxeon C60"
 			(at 122.301 76.2 90)
 			(effects
 				(font
@@ -2739,7 +2739,7 @@
 				)
 			)
 		)
-		(property "Value" "Solar_Cell"
+		(property "Value" "Maxeon C60"
 			(at 164.211 76.2 90)
 			(effects
 				(font
@@ -2897,7 +2897,7 @@
 				)
 			)
 		)
-		(property "Value" "Solar_Cell"
+		(property "Value" "Maxeon C60"
 			(at 80.391 76.2 90)
 			(effects
 				(font
@@ -3055,7 +3055,7 @@
 				)
 			)
 		)
-		(property "Value" "Solar_Cell"
+		(property "Value" "Maxeon C60"
 			(at 94.361 76.2 90)
 			(effects
 				(font
@@ -3213,7 +3213,7 @@
 				)
 			)
 		)
-		(property "Value" "Solar_Cell"
+		(property "Value" "Maxeon C60"
 			(at 150.241 76.2 90)
 			(effects
 				(font
@@ -3371,7 +3371,7 @@
 				)
 			)
 		)
-		(property "Value" "Solar_Cell"
+		(property "Value" "Maxeon C60"
 			(at 136.271 76.2 90)
 			(effects
 				(font
@@ -3529,7 +3529,7 @@
 				)
 			)
 		)
-		(property "Value" "Solar_Cell"
+		(property "Value" "Maxeon C60"
 			(at 108.331 76.2 90)
 			(effects
 				(font
@@ -4113,7 +4113,7 @@
 				)
 			)
 		)
-		(property "Value" "Solar_Cell"
+		(property "Value" "Maxeon C60"
 			(at 178.181 76.2 90)
 			(effects
 				(font

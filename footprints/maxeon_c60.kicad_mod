@@ -183,4 +183,15 @@
 		(uuid "71b35132-d70a-4d17-81be-a6ca5cd6581b")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/models/Sunpower_Maxeon_C60_Cell.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
