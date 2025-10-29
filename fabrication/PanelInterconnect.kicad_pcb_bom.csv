@@ -1,0 +1,4 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Mfr,Mfr P/N
+J1,1,Conn_01x10,kyocera_fpc_01x10,,,,smt,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",,
+J3,1,Conn_01x30,kyocera_fpc_01x30,,,,smt,"Generic connector, single row, 01x30, script generated (kicad-library-utils/schlib/autogen/connector/)",,
+"SC1, SC2, SC3, SC4, SC5, SC6, SC7, SC8",8,Maxeon C60,maxeon_c60,,,,smt,Single solar cell,Maxeon,C60
