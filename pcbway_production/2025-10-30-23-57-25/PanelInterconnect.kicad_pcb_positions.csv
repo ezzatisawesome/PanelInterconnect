@@ -1,51 +1,51 @@
 ﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
 -4.9,-558.2,0.0,top,J1,,,kyocera_fpc_01x10,Conn_01x10,smt
--4.9,-428.2,0.0,top,J1,,,kyocera_fpc_01x10,Conn_01x10,smt
 25.1,-493.2,0.0,top,J1,,,kyocera_fpc_01x10,Conn_01x10,smt
+-4.9,-428.2,0.0,top,J1,,,kyocera_fpc_01x10,Conn_01x10,smt
 25.1,-363.2,0.0,top,J1,,,kyocera_fpc_01x10,Conn_01x10,smt
 -6.4,-299.45,0.0,top,J1,,,kyocera_fpc_01x10,Conn_01x10,smt
 1162.75,-559.7,180.0,top,J3,,,kyocera_fpc_01x30,Conn_01x30,smt
 1192.75,-494.7,180.0,top,J3,,,kyocera_fpc_01x30,Conn_01x30,smt
+1162.75,-429.7,180.0,top,J3,,,kyocera_fpc_01x30,Conn_01x30,smt
 1192.75,-364.7,180.0,top,J3,,,kyocera_fpc_01x30,Conn_01x30,smt
 1161.25,-300.95,180.0,top,J3,,,kyocera_fpc_01x30,Conn_01x30,smt
-1162.75,-429.7,180.0,top,J3,,,kyocera_fpc_01x30,Conn_01x30,smt
 123.75,-559.0,-90.0,top,SC1,,,maxeon_c60,Maxeon C60,smt
-123.75,-429.0,-90.0,top,SC1,,,maxeon_c60,Maxeon C60,smt
-122.25,-300.25,-90.0,top,SC1,,,maxeon_c60,Maxeon C60,smt
-153.75,-364.0,-90.0,top,SC1,,,maxeon_c60,Maxeon C60,smt
 153.75,-494.0,-90.0,top,SC1,,,maxeon_c60,Maxeon C60,smt
-253.75,-429.0,-90.0,top,SC2,,,maxeon_c60,Maxeon C60,smt
-252.25,-300.25,-90.0,top,SC2,,,maxeon_c60,Maxeon C60,smt
+123.75,-429.0,-90.0,top,SC1,,,maxeon_c60,Maxeon C60,smt
+153.75,-364.0,-90.0,top,SC1,,,maxeon_c60,Maxeon C60,smt
+122.25,-300.25,-90.0,top,SC1,,,maxeon_c60,Maxeon C60,smt
 253.75,-559.0,-90.0,top,SC2,,,maxeon_c60,Maxeon C60,smt
 283.75,-494.0,-90.0,top,SC2,,,maxeon_c60,Maxeon C60,smt
+253.75,-429.0,-90.0,top,SC2,,,maxeon_c60,Maxeon C60,smt
 283.75,-364.0,-90.0,top,SC2,,,maxeon_c60,Maxeon C60,smt
+252.25,-300.25,-90.0,top,SC2,,,maxeon_c60,Maxeon C60,smt
+383.75,-559.0,-90.0,top,SC3,,,maxeon_c60,Maxeon C60,smt
 413.75,-494.0,-90.0,top,SC3,,,maxeon_c60,Maxeon C60,smt
 383.75,-429.0,-90.0,top,SC3,,,maxeon_c60,Maxeon C60,smt
 413.75,-364.0,-90.0,top,SC3,,,maxeon_c60,Maxeon C60,smt
-383.75,-559.0,-90.0,top,SC3,,,maxeon_c60,Maxeon C60,smt
 382.25,-300.25,-90.0,top,SC3,,,maxeon_c60,Maxeon C60,smt
-543.75,-364.0,-90.0,top,SC4,,,maxeon_c60,Maxeon C60,smt
 513.75,-559.0,-90.0,top,SC4,,,maxeon_c60,Maxeon C60,smt
-512.25,-300.25,-90.0,top,SC4,,,maxeon_c60,Maxeon C60,smt
 543.75,-494.0,-90.0,top,SC4,,,maxeon_c60,Maxeon C60,smt
 513.75,-429.0,-90.0,top,SC4,,,maxeon_c60,Maxeon C60,smt
-642.25,-300.25,-90.0,top,SC5,,,maxeon_c60,Maxeon C60,smt
-673.75,-364.0,-90.0,top,SC5,,,maxeon_c60,Maxeon C60,smt
-673.75,-494.0,-90.0,top,SC5,,,maxeon_c60,Maxeon C60,smt
+543.75,-364.0,-90.0,top,SC4,,,maxeon_c60,Maxeon C60,smt
+512.25,-300.25,-90.0,top,SC4,,,maxeon_c60,Maxeon C60,smt
 643.75,-559.0,-90.0,top,SC5,,,maxeon_c60,Maxeon C60,smt
+673.75,-494.0,-90.0,top,SC5,,,maxeon_c60,Maxeon C60,smt
 643.75,-429.0,-90.0,top,SC5,,,maxeon_c60,Maxeon C60,smt
-772.25,-300.25,-90.0,top,SC6,,,maxeon_c60,Maxeon C60,smt
-803.75,-364.0,-90.0,top,SC6,,,maxeon_c60,Maxeon C60,smt
+673.75,-364.0,-90.0,top,SC5,,,maxeon_c60,Maxeon C60,smt
+642.25,-300.25,-90.0,top,SC5,,,maxeon_c60,Maxeon C60,smt
 773.75,-559.0,-90.0,top,SC6,,,maxeon_c60,Maxeon C60,smt
 803.75,-494.0,-90.0,top,SC6,,,maxeon_c60,Maxeon C60,smt
 773.75,-429.0,-90.0,top,SC6,,,maxeon_c60,Maxeon C60,smt
-933.75,-494.0,-90.0,top,SC7,,,maxeon_c60,Maxeon C60,smt
+803.75,-364.0,-90.0,top,SC6,,,maxeon_c60,Maxeon C60,smt
+772.25,-300.25,-90.0,top,SC6,,,maxeon_c60,Maxeon C60,smt
 903.75,-559.0,-90.0,top,SC7,,,maxeon_c60,Maxeon C60,smt
+933.75,-494.0,-90.0,top,SC7,,,maxeon_c60,Maxeon C60,smt
 903.75,-429.0,-90.0,top,SC7,,,maxeon_c60,Maxeon C60,smt
 933.75,-364.0,-90.0,top,SC7,,,maxeon_c60,Maxeon C60,smt
 902.25,-300.25,-90.0,top,SC7,,,maxeon_c60,Maxeon C60,smt
+1033.75,-559.0,-90.0,top,SC8,,,maxeon_c60,Maxeon C60,smt
+1063.75,-494.0,-90.0,top,SC8,,,maxeon_c60,Maxeon C60,smt
 1033.75,-429.0,-90.0,top,SC8,,,maxeon_c60,Maxeon C60,smt
 1063.75,-364.0,-90.0,top,SC8,,,maxeon_c60,Maxeon C60,smt
-1063.75,-494.0,-90.0,top,SC8,,,maxeon_c60,Maxeon C60,smt
-1033.75,-559.0,-90.0,top,SC8,,,maxeon_c60,Maxeon C60,smt
 1032.25,-300.25,-90.0,top,SC8,,,maxeon_c60,Maxeon C60,smt

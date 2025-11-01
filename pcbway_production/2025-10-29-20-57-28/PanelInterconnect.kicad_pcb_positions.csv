@@ -1,0 +1,11 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+5.6,-408.45,0.0,top,J1,,,kyocera_fpc_01x10,Conn_01x10,smt
+1173.25,-409.95,180.0,top,J3,,,kyocera_fpc_01x30,Conn_01x30,smt
+134.25,-409.25,-90.0,top,SC1,,,maxeon_c60,Maxeon C60,smt
+264.25,-409.25,-90.0,top,SC2,,,maxeon_c60,Maxeon C60,smt
+394.25,-409.25,-90.0,top,SC3,,,maxeon_c60,Maxeon C60,smt
+524.25,-409.25,-90.0,top,SC4,,,maxeon_c60,Maxeon C60,smt
+654.25,-409.25,-90.0,top,SC5,,,maxeon_c60,Maxeon C60,smt
+784.25,-409.25,-90.0,top,SC6,,,maxeon_c60,Maxeon C60,smt
+914.25,-409.25,-90.0,top,SC7,,,maxeon_c60,Maxeon C60,smt
+1044.25,-409.25,-90.0,top,SC8,,,maxeon_c60,Maxeon C60,smt
