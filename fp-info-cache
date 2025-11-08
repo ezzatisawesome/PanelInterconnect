@@ -1,4 +1,4 @@
-26651559129703651
+26655085719861757
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106252,24 +106252,38 @@ Varistor VF
 0
 2
 2
-_PanelInterconnct
+_PanelInterconnects
 kyocera_fpc_01x10
 
 
 0
 10
 10
-_PanelInterconnct
+_PanelInterconnects
 kyocera_fpc_01x30
 
 
 0
 30
 30
-_PanelInterconnct
+_PanelInterconnects
 maxeon_c60
 
 
 0
-6
+60
 2
+_PanelInterconnects
+tb4_10p
+
+
+0
+10
+10
+_PanelInterconnects
+tb4_16p
+
+
+0
+16
+16

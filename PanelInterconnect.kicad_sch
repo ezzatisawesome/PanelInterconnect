@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Solar Panel Interconnects")
-		(rev "1")
+		(rev "2")
 		(company "Solar Plane")
 		(comment 1 "RE: Ezzat Suhaime")
 		(comment 2 "Reviewer 1:")
@@ -387,960 +387,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector_Generic:Conn_01x30"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 38.1 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x30"
-				(at 0 -40.64 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x30, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x30_1_1"
-				(rectangle
-					(start -1.27 36.83)
-					(end 1.27 -39.37)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 35.687)
-					(end 0 35.433)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 33.147)
-					(end 0 32.893)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 30.607)
-					(end 0 30.353)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 28.067)
-					(end 0 27.813)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 25.527)
-					(end 0 25.273)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 22.987)
-					(end 0 22.733)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 20.447)
-					(end 0 20.193)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 17.907)
-					(end 0 17.653)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 15.367)
-					(end 0 15.113)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 12.827)
-					(end 0 12.573)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 10.287)
-					(end 0 10.033)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 7.747)
-					(end 0 7.493)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 5.207)
-					(end 0 4.953)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -4.953)
-					(end 0 -5.207)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -7.493)
-					(end 0 -7.747)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -10.033)
-					(end 0 -10.287)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -12.573)
-					(end 0 -12.827)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -15.113)
-					(end 0 -15.367)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -17.653)
-					(end 0 -17.907)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -20.193)
-					(end 0 -20.447)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -22.733)
-					(end 0 -22.987)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -25.273)
-					(end 0 -25.527)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -27.813)
-					(end 0 -28.067)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -30.353)
-					(end 0 -30.607)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -32.893)
-					(end 0 -33.147)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -35.433)
-					(end 0 -35.687)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -37.973)
-					(end 0 -38.227)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 35.56 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 33.02 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 30.48 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 27.94 0)
-					(length 3.81)
-					(name "Pin_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 25.4 0)
-					(length 3.81)
-					(name "Pin_5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 22.86 0)
-					(length 3.81)
-					(name "Pin_6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 20.32 0)
-					(length 3.81)
-					(name "Pin_7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 17.78 0)
-					(length 3.81)
-					(name "Pin_8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 15.24 0)
-					(length 3.81)
-					(name "Pin_9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 12.7 0)
-					(length 3.81)
-					(name "Pin_10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 10.16 0)
-					(length 3.81)
-					(name "Pin_11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 7.62 0)
-					(length 3.81)
-					(name "Pin_12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 5.08 0)
-					(length 3.81)
-					(name "Pin_13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 3.81)
-					(name "Pin_17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -7.62 0)
-					(length 3.81)
-					(name "Pin_18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -10.16 0)
-					(length 3.81)
-					(name "Pin_19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -12.7 0)
-					(length 3.81)
-					(name "Pin_20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -15.24 0)
-					(length 3.81)
-					(name "Pin_21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -17.78 0)
-					(length 3.81)
-					(name "Pin_22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -20.32 0)
-					(length 3.81)
-					(name "Pin_23"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "23"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -22.86 0)
-					(length 3.81)
-					(name "Pin_24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -25.4 0)
-					(length 3.81)
-					(name "Pin_25"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "25"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -27.94 0)
-					(length 3.81)
-					(name "Pin_26"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "26"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -30.48 0)
-					(length 3.81)
-					(name "Pin_27"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "27"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -33.02 0)
-					(length 3.81)
-					(name "Pin_28"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "28"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -35.56 0)
-					(length 3.81)
-					(name "Pin_29"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "29"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -38.1 0)
-					(length 3.81)
-					(name "Pin_30"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "30"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:Solar_Cell"
 			(pin_numbers
 				(hide yes)
@@ -1568,1120 +614,301 @@
 		)
 	)
 	(junction
-		(at 217.17 92.71)
+		(at 163.83 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0592da14-c8b4-409c-a8c0-5014f5e1ea17")
+		(uuid "19efb464-6f9d-47df-8ae5-2a407104ba80")
 	)
 	(junction
-		(at 64.77 95.25)
+		(at 163.83 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0ebd1089-c62c-4c91-89e0-9fc578e56681")
+		(uuid "4afb9601-60b7-404d-91fa-837336209853")
 	)
 	(junction
-		(at 217.17 110.49)
+		(at 163.83 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "156f0104-9428-475f-a5b2-96daf3612c60")
+		(uuid "e1ab54fb-cfc1-47cb-bf4a-55701a16a25b")
 	)
 	(junction
-		(at 217.17 115.57)
+		(at 163.83 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "206a4060-9dd1-491c-90a7-c6749b6b6b8f")
+		(uuid "ec1263d5-5e85-4882-b856-33c3ae7f74cc")
 	)
 	(junction
-		(at 217.17 72.39)
+		(at 163.83 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "23fa9cf6-48af-4bd0-96fa-a9405ea2900d")
+		(uuid "ecaced18-4e4a-46f5-a091-c2d09235ec57")
 	)
 	(junction
-		(at 217.17 87.63)
+		(at 163.83 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "28d99a9d-d29f-4fa6-a8d8-74fc09f787ad")
+		(uuid "f15ad5b7-15ec-431f-aed9-ea2545047b65")
 	)
-	(junction
-		(at 217.17 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2e773b56-962d-42c9-9b2c-08ea6b84fbd0")
-	)
-	(junction
-		(at 217.17 123.19)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "314eb2cb-3663-4b77-bf62-2995ff4cdad1")
-	)
-	(junction
-		(at 54.61 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3655261e-deae-4f85-b43d-5141f9acefa3")
-	)
-	(junction
-		(at 54.61 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3e624fbf-08e4-4fc4-9d44-878166894c15")
-	)
-	(junction
-		(at 217.17 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4ab78756-86c4-45c6-91f5-532f52c8c5a2")
-	)
-	(junction
-		(at 54.61 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "50762529-d6d3-4c34-bda4-4ff851ce2414")
-	)
-	(junction
-		(at 217.17 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5b5d5ffa-2cf2-44e0-9129-e0a1b172dc0a")
-	)
-	(junction
-		(at 217.17 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5bd97da6-9623-4eef-9920-62ef0d1e4639")
-	)
-	(junction
-		(at 217.17 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5d014431-8a7d-4070-a554-f0e793b0aaa5")
-	)
-	(junction
-		(at 217.17 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7d9ce7c9-f901-47f4-a89f-921839ae5500")
-	)
-	(junction
-		(at 217.17 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "92b80eb4-8450-48d8-aacb-45878804ea71")
-	)
-	(junction
-		(at 54.61 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b858ee66-63db-4521-846b-7a7d6143d1a7")
-	)
-	(junction
-		(at 217.17 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c5e3dc39-cb1b-4e07-b250-57fc337821ba")
-	)
-	(junction
-		(at 217.17 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c7b95546-37d1-4ab5-a49c-3e7c3be1e1a1")
-	)
-	(junction
-		(at 217.17 85.09)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c88cd26e-778c-497a-adae-1300ce88aad1")
-	)
-	(junction
-		(at 54.61 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d8370232-e963-47b6-9fa8-a0b250ad5767")
-	)
-	(junction
-		(at 217.17 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d9bdc652-8c4d-4715-88b6-8cf3c06b2c20")
-	)
-	(junction
-		(at 217.17 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e28c164b-6b3f-4c4b-aad1-b03f6faea165")
-	)
-	(junction
-		(at 217.17 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e563e40f-d6a3-40c4-9f76-e77b32d2e602")
-	)
-	(junction
-		(at 217.17 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ebb5ab6c-cb3f-4587-9b6a-12b4e92b917d")
-	)
-	(junction
-		(at 217.17 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ebedf12c-1f79-4e3d-9e61-21e0c30f50ea")
-	)
-	(junction
-		(at 217.17 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "efb80dfa-7688-4556-95bb-92b59e7bee50")
-	)
-	(junction
-		(at 217.17 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ffebf39a-23dd-4132-81f5-d88321dcb014")
-	)
-	(no_connect
-		(at 52.07 105.41)
-		(uuid "fa891a0e-b06e-4439-bbda-a3f4294724f0")
-	)
-	(wire
-		(pts
-			(xy 217.17 130.81) (xy 220.98 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01715e01-490a-497e-b5cd-870a0a49f0c1")
-	)
-	(wire
-		(pts
-			(xy 85.09 80.01) (xy 91.44 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "020a7024-47cf-45a2-b537-5bd9ac27b715")
-	)
-	(wire
-		(pts
-			(xy 217.17 105.41) (xy 217.17 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "073e4f3e-40d0-41f2-b00c-99ab3e49dd1f")
-	)
-	(wire
-		(pts
-			(xy 217.17 90.17) (xy 220.98 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b5943f6-c55e-44a1-8017-687e5718ee09")
-	)
-	(wire
-		(pts
-			(xy 189.23 120.65) (xy 205.74 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0cfdef6f-db44-4a0c-9c91-ddcf08298341")
-	)
-	(wire
-		(pts
-			(xy 154.94 80.01) (xy 161.29 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d141fff-39cd-4575-82ae-6c5fa3f77990")
-	)
-	(wire
-		(pts
-			(xy 217.17 85.09) (xy 220.98 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0dac768a-e097-4715-9211-27af71d57b14")
-	)
-	(wire
-		(pts
-			(xy 217.17 80.01) (xy 217.17 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "111e0669-7190-4faf-81ed-905d8022723d")
-	)
-	(wire
-		(pts
-			(xy 217.17 69.85) (xy 220.98 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16a5985c-2a7e-48c6-9b46-a92a8204e6f3")
-	)
-	(wire
-		(pts
-			(xy 217.17 82.55) (xy 217.17 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "206a465f-1b62-435a-b611-258a3c8232d7")
-	)
-	(wire
-		(pts
-			(xy 217.17 72.39) (xy 220.98 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20abed7b-bed1-4828-8f32-4e33bd44d2b3")
-	)
-	(wire
-		(pts
-			(xy 217.17 107.95) (xy 220.98 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2166dfcf-46e4-4543-bc39-0c7705fcd326")
-	)
-	(wire
-		(pts
-			(xy 140.97 80.01) (xy 147.32 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "23e3c14d-8840-42eb-8c3d-f4fc9ddbe4d6")
-	)
-	(wire
-		(pts
-			(xy 217.17 92.71) (xy 217.17 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28f2d976-9e00-4640-ab36-e8d14770ddc1")
-	)
-	(wire
-		(pts
-			(xy 217.17 110.49) (xy 217.17 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "33855eab-f78e-4d5d-b36c-712286d6fa4b")
-	)
-	(wire
-		(pts
-			(xy 217.17 102.87) (xy 220.98 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "33ced1d7-66ac-4a21-8633-0b27891594f1")
-	)
-	(wire
-		(pts
-			(xy 217.17 87.63) (xy 217.17 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "33defaa5-9b10-4e97-b0f0-a4d030cf7446")
-	)
-	(wire
-		(pts
-			(xy 217.17 87.63) (xy 220.98 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "396372f9-6ad1-492b-8508-0400a7c7b63d")
-	)
-	(wire
-		(pts
-			(xy 64.77 95.25) (xy 64.77 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ea8025e-b997-41f2-9fac-c2f99bcddc01")
-	)
-	(wire
-		(pts
-			(xy 217.17 110.49) (xy 217.17 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fbd1f46-54df-4e4b-9dcc-adf41c81fae6")
-	)
-	(wire
-		(pts
-			(xy 217.17 67.31) (xy 217.17 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4021add8-74a9-491e-9cc5-0734b52a7e6f")
-	)
-	(wire
-		(pts
-			(xy 54.61 110.49) (xy 64.77 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "498455ea-0a9c-4a56-8937-30d689defcf5")
-	)
-	(wire
-		(pts
-			(xy 217.17 80.01) (xy 220.98 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50bb9e5a-d10a-4e68-8cbf-504dad2c6366")
-	)
-	(wire
-		(pts
-			(xy 54.61 97.79) (xy 54.61 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "530dee0d-b11a-4837-86ff-66872c012ee5")
-	)
-	(wire
-		(pts
-			(xy 73.66 80.01) (xy 77.47 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54cb85a8-5490-4c42-9caf-daace1abc9f3")
-	)
-	(wire
-		(pts
-			(xy 217.17 110.49) (xy 220.98 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "562d9014-ba59-4825-8f0e-f83706ff31be")
-	)
-	(wire
-		(pts
-			(xy 220.98 115.57) (xy 217.17 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "58c80f0f-f8e9-4c8f-9b15-055baf5ff7b8")
-	)
-	(wire
-		(pts
-			(xy 217.17 95.25) (xy 220.98 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "593b8f92-1f5a-491f-9e33-5cfd28942b9e")
-	)
-	(wire
-		(pts
-			(xy 217.17 105.41) (xy 217.17 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59e31be4-1e65-4a6f-afea-33116f9eef85")
-	)
-	(wire
-		(pts
-			(xy 74.93 120.65) (xy 189.23 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a48489d-5715-416c-aaf1-d1bcc2a0edbc")
-	)
-	(wire
-		(pts
-			(xy 64.77 105.41) (xy 74.93 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ac736ed-9ba1-469b-bbfb-b46ba89ba8ad")
-	)
-	(wire
-		(pts
-			(xy 74.93 115.57) (xy 217.17 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5cd0104d-0d86-4712-ac4e-41341808e079")
-	)
-	(wire
-		(pts
-			(xy 127 80.01) (xy 133.35 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d4b2194-9af7-4abb-a602-c3ca1e40de9f")
-	)
-	(wire
-		(pts
-			(xy 73.66 80.01) (xy 64.77 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d86f317-c288-4918-b8b2-ee5ea8677014")
-	)
-	(wire
-		(pts
-			(xy 217.17 137.16) (xy 217.17 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e0ff613-87f9-40d4-ba4b-5834955c7adb")
-	)
-	(wire
-		(pts
-			(xy 217.17 123.19) (xy 217.17 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ec05439-059e-493d-9740-4232486c09b1")
-	)
-	(wire
-		(pts
-			(xy 217.17 105.41) (xy 220.98 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5fb6715f-2b98-46a7-b280-0fb8e1d887e7")
-	)
-	(wire
-		(pts
-			(xy 217.17 64.77) (xy 220.98 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61a8a8ad-c0c6-4b26-980d-ba1a02c93c91")
-	)
-	(wire
-		(pts
-			(xy 54.61 95.25) (xy 64.77 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "64c0c154-248f-4b2a-b9eb-163c89b272b3")
-	)
-	(wire
-		(pts
-			(xy 99.06 80.01) (xy 105.41 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67e10c97-8749-4f0e-aeed-dd7bfc504022")
-	)
-	(wire
-		(pts
-			(xy 217.17 77.47) (xy 217.17 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d5bde12-49fb-4b12-b68f-4d3166f23298")
-	)
-	(wire
-		(pts
-			(xy 217.17 118.11) (xy 217.17 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "703a904e-1d42-4824-b2c3-93c5ac0190fa")
-	)
-	(wire
-		(pts
-			(xy 217.17 115.57) (xy 217.17 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71c2aa47-36cc-42ae-a5e0-a916c00c79e1")
-	)
-	(wire
-		(pts
-			(xy 52.07 107.95) (xy 54.61 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73bfdff1-016d-455c-bbd1-6fdb385484d9")
-	)
-	(wire
-		(pts
-			(xy 217.17 72.39) (xy 217.17 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74235abb-5c9a-41df-b3b7-30708f2a3930")
-	)
-	(wire
-		(pts
-			(xy 64.77 110.49) (xy 74.93 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "763bff90-3594-4949-ae9f-9e1754884110")
-	)
-	(wire
-		(pts
-			(xy 52.07 102.87) (xy 54.61 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "791325e9-1501-47b6-b786-cb7d4de1cb61")
-	)
-	(wire
-		(pts
-			(xy 52.07 100.33) (xy 54.61 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a43706e-426e-44af-9d92-d0f4b7405729")
-	)
-	(wire
-		(pts
-			(xy 217.17 85.09) (xy 217.17 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b39d434-77bb-4dbd-a804-14d8fce8dfd5")
-	)
-	(wire
-		(pts
-			(xy 217.17 90.17) (xy 217.17 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f878a98-20ca-4ac6-add8-66176bdb4eb1")
-	)
-	(wire
-		(pts
-			(xy 52.07 95.25) (xy 54.61 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f8ad829-5e2a-44cb-9e9e-4e45a5a3be7a")
-	)
-	(wire
-		(pts
-			(xy 217.17 113.03) (xy 217.17 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83a4dfe1-ca20-46cb-9b49-577d469e617b")
-	)
-	(wire
-		(pts
-			(xy 64.77 88.9) (xy 64.77 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84d8d582-3150-422c-a3fc-97f0da0dd5a5")
-	)
-	(wire
-		(pts
-			(xy 217.17 125.73) (xy 220.98 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "85457b06-9327-4690-840a-2ebbb3276cc0")
-	)
-	(wire
-		(pts
-			(xy 217.17 118.11) (xy 220.98 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8734594f-27ec-434d-b6e4-a46c76d27fb3")
-	)
-	(wire
-		(pts
-			(xy 217.17 82.55) (xy 220.98 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8cdf0eda-6db2-4de5-a76a-394f25cca88d")
-	)
-	(wire
-		(pts
-			(xy 52.07 92.71) (xy 54.61 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "916b3f92-b707-45bc-8286-76911b76e9f5")
-	)
-	(wire
-		(pts
-			(xy 217.17 138.43) (xy 220.98 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9715954b-ce48-49bc-8215-8b4df12b5f30")
-	)
-	(wire
-		(pts
-			(xy 54.61 90.17) (xy 54.61 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "982d76ea-4d1e-4592-86f7-e3d53b91dd6e")
-	)
-	(wire
-		(pts
-			(xy 52.07 90.17) (xy 54.61 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ba8ec32-78e7-4d7b-839d-36ea632a6f6a")
-	)
-	(wire
-		(pts
-			(xy 217.17 123.19) (xy 220.98 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9cabf9f5-24a6-468d-9c2f-446a58ccd2b8")
-	)
-	(wire
-		(pts
-			(xy 54.61 110.49) (xy 54.61 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d0fc927-1cee-4de8-b18a-e301c705eac1")
-	)
-	(wire
-		(pts
-			(xy 113.03 80.01) (xy 119.38 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3ab9f4c-1fa4-437c-95ba-0cd8afaccd66")
-	)
-	(wire
-		(pts
-			(xy 217.17 120.65) (xy 217.17 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac61dcfe-b8d0-4f09-b2bb-11c30391806a")
-	)
-	(wire
-		(pts
-			(xy 217.17 125.73) (xy 217.17 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae8dd8c8-efda-4818-bfd1-93bb9a809749")
-	)
-	(wire
-		(pts
-			(xy 217.17 113.03) (xy 220.98 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "afe7f1db-52d8-44f9-8e47-6fcde8c66a6f")
-	)
-	(wire
-		(pts
-			(xy 54.61 102.87) (xy 54.61 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5777228-6f0e-42eb-938c-57c10fa8dc02")
-	)
 	(wire
 		(pts
-			(xy 217.17 128.27) (xy 217.17 130.81)
+			(xy 163.83 97.79) (xy 163.83 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b69556dd-8353-4cbc-b42f-9c9ce721ad2f")
+		(uuid "0bde2c94-129b-4034-bfbf-17aa1518331b")
 	)
 	(wire
 		(pts
-			(xy 54.61 92.71) (xy 54.61 95.25)
+			(xy 163.83 102.87) (xy 163.83 105.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bb1f8710-173b-4221-acb5-b646e509e2f8")
+		(uuid "1c510598-3a30-4914-a87e-0e0fd91acc99")
 	)
 	(wire
 		(pts
-			(xy 52.07 113.03) (xy 54.61 113.03)
+			(xy 163.83 85.09) (xy 163.83 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c6df964c-55b0-43bf-8aa4-af5a316eecc7")
+		(uuid "475882be-30b5-4579-be3b-91ea0fb727da")
 	)
 	(wire
 		(pts
-			(xy 182.88 80.01) (xy 217.17 80.01)
+			(xy 163.83 87.63) (xy 165.1 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ccb5d0e3-67d5-4ef3-8761-05ca5a2e1ecd")
+		(uuid "4d3a5983-03bf-42f1-8a4c-7555326320aa")
 	)
 	(wire
 		(pts
-			(xy 52.07 97.79) (xy 54.61 97.79)
+			(xy 140.97 102.87) (xy 125.73 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cd1a7d9a-2b7a-420c-bc5c-4ce17b23d81d")
+		(uuid "5690afb9-7c77-4458-b9a6-816461d55763")
 	)
 	(wire
 		(pts
-			(xy 217.17 74.93) (xy 217.17 72.39)
+			(xy 125.73 90.17) (xy 125.73 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ce28d7ae-6136-4442-ab00-bfb89efb3806")
+		(uuid "6cf4d8b6-8759-4f45-825b-2fe2b69c920e")
 	)
 	(wire
 		(pts
-			(xy 217.17 135.89) (xy 217.17 137.16)
+			(xy 163.83 97.79) (xy 165.1 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d0aecaee-3323-4cab-a6a2-c80f99b87b8c")
+		(uuid "6d0f25bf-4687-4f6f-a21b-a7f2e0c09dce")
 	)
 	(wire
 		(pts
-			(xy 217.17 128.27) (xy 220.98 128.27)
+			(xy 163.83 85.09) (xy 165.1 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d2009aaa-c69b-4903-92d9-1d8006aff0df")
+		(uuid "6f89d58b-e55b-476f-bae1-d59fd3ef3410")
 	)
 	(wire
 		(pts
-			(xy 205.74 137.16) (xy 217.17 137.16)
+			(xy 163.83 90.17) (xy 163.83 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d2e00d1d-e259-4612-9108-1c9ff48dceb1")
+		(uuid "6fefa6ce-585f-41a0-8cf1-23496a5ae860")
 	)
 	(wire
 		(pts
-			(xy 217.17 74.93) (xy 220.98 74.93)
+			(xy 163.83 102.87) (xy 165.1 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d5b4939b-7e50-4880-80cd-f4f92b10127b")
+		(uuid "84a312fd-0aa3-47a7-b33a-dfc12ca5c92c")
 	)
 	(wire
 		(pts
-			(xy 54.61 107.95) (xy 54.61 110.49)
+			(xy 163.83 100.33) (xy 163.83 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e1c1d27a-597b-4324-9ce9-dc0d960320cd")
+		(uuid "9358b1c8-391c-4a5e-ba4f-e10d3d25ded7")
 	)
 	(wire
 		(pts
-			(xy 217.17 67.31) (xy 220.98 67.31)
+			(xy 148.59 90.17) (xy 163.83 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e7b56bd9-3963-4ba2-b870-293c0d77be24")
+		(uuid "93d6de29-eb32-42de-97b4-c0e8f3099b1a")
 	)
 	(wire
 		(pts
-			(xy 217.17 90.17) (xy 217.17 87.63)
+			(xy 163.83 105.41) (xy 165.1 105.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ed590535-5d96-4377-b463-b929bf9c9399")
+		(uuid "9861970c-2583-4f94-8b94-338286142504")
 	)
 	(wire
 		(pts
-			(xy 217.17 135.89) (xy 220.98 135.89)
+			(xy 125.73 90.17) (xy 140.97 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f01e47d5-f0bd-495b-8d58-bd00f40d43fa")
+		(uuid "9cbde7e0-2455-422b-a228-93ac92f48065")
 	)
 	(wire
 		(pts
-			(xy 220.98 120.65) (xy 217.17 120.65)
+			(xy 163.83 95.25) (xy 163.83 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f0ef8b78-4bcf-49ef-b65e-0920f5bb83fc")
+		(uuid "a1e0ef28-a8c5-421f-9cf0-570933de1916")
 	)
 	(wire
 		(pts
-			(xy 217.17 100.33) (xy 220.98 100.33)
+			(xy 165.1 95.25) (xy 163.83 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f22587a1-10c8-40b1-86b1-7e00120a8ed9")
+		(uuid "b775cdff-94e8-4b5b-bddc-30d54cb38710")
 	)
 	(wire
 		(pts
-			(xy 52.07 110.49) (xy 54.61 110.49)
+			(xy 163.83 92.71) (xy 165.1 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f7ce1a6c-2b07-47ca-beea-59cc079c5c68")
+		(uuid "b8cb2de0-504f-48df-9488-b6d3820b2002")
 	)
 	(wire
 		(pts
-			(xy 217.17 77.47) (xy 220.98 77.47)
+			(xy 163.83 100.33) (xy 165.1 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f814f986-4e88-419b-9de2-25e8b413a20b")
+		(uuid "bfe3452d-82d8-451b-8508-086b895bbfde")
 	)
 	(wire
 		(pts
-			(xy 217.17 92.71) (xy 220.98 92.71)
+			(xy 148.59 102.87) (xy 163.83 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fba7314f-17ca-40d0-a2da-350a43553ff8")
+		(uuid "c5574f3d-a56d-4832-a9c7-01d7b87f91f6")
 	)
 	(wire
 		(pts
-			(xy 217.17 69.85) (xy 217.17 67.31)
+			(xy 163.83 90.17) (xy 165.1 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fd5ac682-67bc-4655-8f11-c7dfe3aeac2d")
+		(uuid "ca85326a-af5b-4492-a128-d4741c2b0623")
 	)
 	(wire
 		(pts
-			(xy 168.91 80.01) (xy 175.26 80.01)
+			(xy 163.83 90.17) (xy 163.83 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fe1a5bce-22fa-47eb-8f35-1d51a81fb3a0")
+		(uuid "dc9562d1-0739-41b7-a034-f9a3aea1123b")
 	)
 	(wire
 		(pts
-			(xy 54.61 95.25) (xy 54.61 97.79)
+			(xy 163.83 105.41) (xy 163.83 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fe255948-fdf9-4dce-b48a-b59150925d21")
+		(uuid "e96900c4-75b3-4a71-bec6-4423c4570c01")
 	)
 	(wire
 		(pts
-			(xy 217.17 102.87) (xy 217.17 100.33)
+			(xy 163.83 107.95) (xy 165.1 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ffac4aab-d698-4ace-ae8a-f7e9bb204800")
+		(uuid "ef0a4c87-726d-4e20-917a-18dbf40ca532")
 	)
 	(symbol
-		(lib_id "Device:Solar_Cell")
-		(at 121.92 80.01 270)
+		(lib_id "Connector_Generic:Conn_01x10")
+		(at 170.18 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "2ebaf957-e9e4-4af1-9df6-7573e91e4d0b")
-		(property "Reference" "SC4"
-			(at 124.079 71.12 90)
+		(uuid "0a495108-e5a1-483a-81e4-3f168ea8990a")
+		(property "Reference" "J1"
+			(at 172.72 95.2499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "Maxeon C60"
-			(at 124.079 73.66 90)
+		(property "Value" "Conn_01x10"
+			(at 172.72 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "_PanelInterconnct:maxeon_c60"
-			(at 123.444 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://eshop.terms.eu/_data/s_3386/files/1379942540-sunpower_c60_bin_ghi.pdf"
-			(at 123.444 80.01 90)
+		(property "Footprint" "_PanelInterconnects:tb4_10p"
+			(at 170.18 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2689,8 +916,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single solar cell"
-			(at 121.92 80.01 0)
+		(property "Datasheet" "~"
+			(at 170.18 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2698,8 +925,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "Maxeon"
-			(at 121.92 80.01 0)
+		(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 170.18 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2707,8 +934,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr P/N" "C60"
-			(at 121.92 80.01 0)
+		(property "Mfr" ""
+			(at 170.18 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr P/N" ""
+			(at 170.18 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2717,7 +953,7 @@
 			)
 		)
 		(property "Supplier_1" ""
-			(at 121.92 80.01 0)
+			(at 170.18 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2726,7 +962,7 @@
 			)
 		)
 		(property "Supplier_1 P/N" ""
-			(at 121.92 80.01 0)
+			(at 170.18 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2735,7 +971,7 @@
 			)
 		)
 		(property "Supplier_1 Unit Price" ""
-			(at 121.92 80.01 0)
+			(at 170.18 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2744,7 +980,7 @@
 			)
 		)
 		(property "Supplier_1 Price @ Qty" ""
-			(at 121.92 80.01 0)
+			(at 170.18 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2753,7 +989,7 @@
 			)
 		)
 		(property "Supplier_2" ""
-			(at 121.92 80.01 0)
+			(at 170.18 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2762,7 +998,7 @@
 			)
 		)
 		(property "Supplier_2 P/N" ""
-			(at 121.92 80.01 0)
+			(at 170.18 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2771,7 +1007,7 @@
 			)
 		)
 		(property "Supplier_2 Unit Price" ""
-			(at 121.92 80.01 0)
+			(at 170.18 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2780,7 +1016,7 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
-			(at 121.92 80.01 0)
+			(at 170.18 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2789,15 +1025,39 @@
 			)
 		)
 		(pin "2"
-			(uuid "aaf10784-22d5-4222-b5e1-94eddc096afc")
+			(uuid "e57b5b0d-843b-438f-ae7f-2b811a06ea5e")
+		)
+		(pin "3"
+			(uuid "6642bf16-f475-42a8-996e-78a143688a1d")
+		)
+		(pin "4"
+			(uuid "8fd85cfe-747e-42e9-8bf1-662200a94cb8")
+		)
+		(pin "5"
+			(uuid "1d67165e-4125-4f3d-9037-ebcd046cea5f")
+		)
+		(pin "6"
+			(uuid "fca3d082-1b49-429e-9186-a1b6f9ea8102")
+		)
+		(pin "7"
+			(uuid "d4faf0ea-a330-486f-a250-e15324950b3f")
+		)
+		(pin "8"
+			(uuid "8c8d89c5-57fa-4fa4-9b3a-15f924fc4ab1")
+		)
+		(pin "9"
+			(uuid "b0a845f6-67db-475a-b804-647a2857394a")
+		)
+		(pin "10"
+			(uuid "98e2bedd-8a9f-42b4-bce3-90b354d59fc8")
 		)
 		(pin "1"
-			(uuid "de04903a-ec4e-4e04-87f1-61213beffa47")
+			(uuid "5871f678-c834-45eb-8956-2ff84be9265d")
 		)
 		(instances
-			(project "PanelInterconnect"
+			(project ""
 				(path "/8a459742-7429-421e-918b-077dc85bb870"
-					(reference "SC4")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -2805,165 +1065,7 @@
 	)
 	(symbol
 		(lib_id "Device:Solar_Cell")
-		(at 163.83 80.01 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8180966a-6b9a-43d6-ac63-f3ad5b33ce21")
-		(property "Reference" "SC7"
-			(at 165.989 71.12 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Maxeon C60"
-			(at 165.989 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "_PanelInterconnct:maxeon_c60"
-			(at 165.354 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://eshop.terms.eu/_data/s_3386/files/1379942540-sunpower_c60_bin_ghi.pdf"
-			(at 165.354 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single solar cell"
-			(at 163.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr" "Maxeon"
-			(at 163.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr P/N" "C60"
-			(at 163.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1" ""
-			(at 163.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 P/N" ""
-			(at 163.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 Unit Price" ""
-			(at 163.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 Price @ Qty" ""
-			(at 163.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2" ""
-			(at 163.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 P/N" ""
-			(at 163.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 Unit Price" ""
-			(at 163.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 Price @ Qty" ""
-			(at 163.83 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "fa1e4944-3c9d-4567-9a1a-f048c565c19d")
-		)
-		(pin "1"
-			(uuid "698deee0-b8c8-4e47-afd2-1cd7810d54c9")
-		)
-		(instances
-			(project "PanelInterconnect"
-				(path "/8a459742-7429-421e-918b-077dc85bb870"
-					(reference "SC7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Solar_Cell")
-		(at 80.01 80.01 270)
+		(at 143.51 90.17 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2972,7 +1074,7 @@
 		(fields_autoplaced yes)
 		(uuid "83c4fab6-de67-418e-899c-cae2d1e84351")
 		(property "Reference" "SC1"
-			(at 82.169 71.12 90)
+			(at 145.669 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2980,15 +1082,15 @@
 			)
 		)
 		(property "Value" "Maxeon C60"
-			(at 82.169 73.66 90)
+			(at 145.669 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "_PanelInterconnct:maxeon_c60"
-			(at 81.534 80.01 90)
+		(property "Footprint" "_PanelInterconnects:maxeon_c60"
+			(at 145.034 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2997,7 +1099,7 @@
 			)
 		)
 		(property "Datasheet" "http://eshop.terms.eu/_data/s_3386/files/1379942540-sunpower_c60_bin_ghi.pdf"
-			(at 81.534 80.01 90)
+			(at 145.034 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3006,7 +1108,7 @@
 			)
 		)
 		(property "Description" "Single solar cell"
-			(at 80.01 80.01 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3015,7 +1117,7 @@
 			)
 		)
 		(property "Mfr" "Maxeon"
-			(at 80.01 80.01 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3024,7 +1126,7 @@
 			)
 		)
 		(property "Mfr P/N" "C60"
-			(at 80.01 80.01 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3033,7 +1135,7 @@
 			)
 		)
 		(property "Supplier_1" ""
-			(at 80.01 80.01 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3042,7 +1144,7 @@
 			)
 		)
 		(property "Supplier_1 P/N" ""
-			(at 80.01 80.01 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3051,7 +1153,7 @@
 			)
 		)
 		(property "Supplier_1 Unit Price" ""
-			(at 80.01 80.01 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3060,7 +1162,7 @@
 			)
 		)
 		(property "Supplier_1 Price @ Qty" ""
-			(at 80.01 80.01 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3069,7 +1171,7 @@
 			)
 		)
 		(property "Supplier_2" ""
-			(at 80.01 80.01 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3078,7 +1180,7 @@
 			)
 		)
 		(property "Supplier_2 P/N" ""
-			(at 80.01 80.01 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3087,7 +1189,7 @@
 			)
 		)
 		(property "Supplier_2 Unit Price" ""
-			(at 80.01 80.01 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3096,7 +1198,7 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
-			(at 80.01 80.01 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3121,16 +1223,16 @@
 	)
 	(symbol
 		(lib_id "Device:Solar_Cell")
-		(at 93.98 80.01 270)
+		(at 143.51 102.87 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8767f550-aaaa-4d8d-b445-8139079f466a")
+		(uuid "febc77d4-eee8-4364-9de1-cfd9f8924a52")
 		(property "Reference" "SC2"
-			(at 96.139 71.12 90)
+			(at 145.669 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3138,15 +1240,15 @@
 			)
 		)
 		(property "Value" "Maxeon C60"
-			(at 96.139 73.66 90)
+			(at 145.669 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "_PanelInterconnct:maxeon_c60"
-			(at 95.504 80.01 90)
+		(property "Footprint" "_PanelInterconnects:maxeon_c60"
+			(at 145.034 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3155,7 +1257,7 @@
 			)
 		)
 		(property "Datasheet" "http://eshop.terms.eu/_data/s_3386/files/1379942540-sunpower_c60_bin_ghi.pdf"
-			(at 95.504 80.01 90)
+			(at 145.034 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3164,7 +1266,7 @@
 			)
 		)
 		(property "Description" "Single solar cell"
-			(at 93.98 80.01 0)
+			(at 143.51 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3173,7 +1275,7 @@
 			)
 		)
 		(property "Mfr" "Maxeon"
-			(at 93.98 80.01 0)
+			(at 143.51 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3182,7 +1284,7 @@
 			)
 		)
 		(property "Mfr P/N" "C60"
-			(at 93.98 80.01 0)
+			(at 143.51 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3191,7 +1293,7 @@
 			)
 		)
 		(property "Supplier_1" ""
-			(at 93.98 80.01 0)
+			(at 143.51 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3200,7 +1302,7 @@
 			)
 		)
 		(property "Supplier_1 P/N" ""
-			(at 93.98 80.01 0)
+			(at 143.51 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3209,7 +1311,7 @@
 			)
 		)
 		(property "Supplier_1 Unit Price" ""
-			(at 93.98 80.01 0)
+			(at 143.51 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3218,7 +1320,7 @@
 			)
 		)
 		(property "Supplier_1 Price @ Qty" ""
-			(at 93.98 80.01 0)
+			(at 143.51 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3227,7 +1329,7 @@
 			)
 		)
 		(property "Supplier_2" ""
-			(at 93.98 80.01 0)
+			(at 143.51 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3236,7 +1338,7 @@
 			)
 		)
 		(property "Supplier_2 P/N" ""
-			(at 93.98 80.01 0)
+			(at 143.51 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3245,7 +1347,7 @@
 			)
 		)
 		(property "Supplier_2 Unit Price" ""
-			(at 93.98 80.01 0)
+			(at 143.51 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3254,7 +1356,7 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
-			(at 93.98 80.01 0)
+			(at 143.51 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3263,1073 +1365,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "3c67c726-8a0e-4c2f-8363-daa155b5a2b1")
+			(uuid "0c26547e-f044-4641-b9a2-364ebc1fc6e3")
 		)
 		(pin "1"
-			(uuid "bd165378-e415-40d2-a3e3-87c103991e3d")
+			(uuid "b666ac87-6617-4e4c-8fba-2be0d12295e9")
 		)
 		(instances
 			(project "PanelInterconnect"
 				(path "/8a459742-7429-421e-918b-077dc85bb870"
 					(reference "SC2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Solar_Cell")
-		(at 149.86 80.01 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "996586a0-ac24-481d-b535-9727e56e728b")
-		(property "Reference" "SC6"
-			(at 152.019 71.12 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Maxeon C60"
-			(at 152.019 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "_PanelInterconnct:maxeon_c60"
-			(at 151.384 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://eshop.terms.eu/_data/s_3386/files/1379942540-sunpower_c60_bin_ghi.pdf"
-			(at 151.384 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single solar cell"
-			(at 149.86 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr" "Maxeon"
-			(at 149.86 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr P/N" "C60"
-			(at 149.86 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1" ""
-			(at 149.86 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 P/N" ""
-			(at 149.86 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 Unit Price" ""
-			(at 149.86 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 Price @ Qty" ""
-			(at 149.86 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2" ""
-			(at 149.86 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 P/N" ""
-			(at 149.86 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 Unit Price" ""
-			(at 149.86 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 Price @ Qty" ""
-			(at 149.86 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "80dc0ec6-75c4-4c82-bc37-b12878549946")
-		)
-		(pin "1"
-			(uuid "65df86b6-4740-41c3-a41a-a2fcaef0e6bc")
-		)
-		(instances
-			(project "PanelInterconnect"
-				(path "/8a459742-7429-421e-918b-077dc85bb870"
-					(reference "SC6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Solar_Cell")
-		(at 135.89 80.01 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d27c5bf9-b2a1-4599-a96a-db210160b330")
-		(property "Reference" "SC5"
-			(at 138.049 71.12 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Maxeon C60"
-			(at 138.049 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "_PanelInterconnct:maxeon_c60"
-			(at 137.414 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://eshop.terms.eu/_data/s_3386/files/1379942540-sunpower_c60_bin_ghi.pdf"
-			(at 137.414 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single solar cell"
-			(at 135.89 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr" "Maxeon"
-			(at 135.89 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr P/N" "C60"
-			(at 135.89 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1" ""
-			(at 135.89 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 P/N" ""
-			(at 135.89 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 Unit Price" ""
-			(at 135.89 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 Price @ Qty" ""
-			(at 135.89 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2" ""
-			(at 135.89 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 P/N" ""
-			(at 135.89 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 Unit Price" ""
-			(at 135.89 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 Price @ Qty" ""
-			(at 135.89 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "bcaf8511-c609-4dc8-af6c-6cf5fa6cec7d")
-		)
-		(pin "1"
-			(uuid "decce24b-1a96-4a96-aaaa-7287d60bc355")
-		)
-		(instances
-			(project "PanelInterconnect"
-				(path "/8a459742-7429-421e-918b-077dc85bb870"
-					(reference "SC5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Solar_Cell")
-		(at 107.95 80.01 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e4ffe7b7-6a90-4c86-8535-84052a8189fc")
-		(property "Reference" "SC3"
-			(at 110.109 71.12 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Maxeon C60"
-			(at 110.109 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "_PanelInterconnct:maxeon_c60"
-			(at 109.474 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://eshop.terms.eu/_data/s_3386/files/1379942540-sunpower_c60_bin_ghi.pdf"
-			(at 109.474 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single solar cell"
-			(at 107.95 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr" "Maxeon"
-			(at 107.95 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr P/N" "C60"
-			(at 107.95 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1" ""
-			(at 107.95 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 P/N" ""
-			(at 107.95 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 Unit Price" ""
-			(at 107.95 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 Price @ Qty" ""
-			(at 107.95 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2" ""
-			(at 107.95 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 P/N" ""
-			(at 107.95 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 Unit Price" ""
-			(at 107.95 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 Price @ Qty" ""
-			(at 107.95 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e14a00b9-d524-4bc8-80ca-f43c8957db08")
-		)
-		(pin "1"
-			(uuid "48dce566-df5c-4058-b646-ec3281e48b21")
-		)
-		(instances
-			(project "PanelInterconnect"
-				(path "/8a459742-7429-421e-918b-077dc85bb870"
-					(reference "SC3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x10")
-		(at 46.99 102.87 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e6099976-b71e-4c34-8a03-1ee89448dd79")
-		(property "Reference" "J1"
-			(at 46.99 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x10"
-			(at 46.99 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "_PanelInterconnct:kyocera_fpc_01x10"
-			(at 46.99 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 46.99 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 46.99 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr" ""
-			(at 46.99 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr P/N" ""
-			(at 46.99 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1" ""
-			(at 46.99 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 P/N" ""
-			(at 46.99 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 Unit Price" ""
-			(at 46.99 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 Price @ Qty" ""
-			(at 46.99 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2" ""
-			(at 46.99 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 P/N" ""
-			(at 46.99 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 Unit Price" ""
-			(at 46.99 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 Price @ Qty" ""
-			(at 46.99 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "d02e7879-69c2-455a-8df9-c6246b97b91f")
-		)
-		(pin "8"
-			(uuid "c0c8a33a-6176-481d-8f93-02a6b899e575")
-		)
-		(pin "6"
-			(uuid "b6adf501-3817-48ee-838a-76aca6823923")
-		)
-		(pin "9"
-			(uuid "6e01f6ed-e0e3-4c29-ad2b-6a247becc0e3")
-		)
-		(pin "7"
-			(uuid "96074d1c-6d88-4679-b807-a7d2fbaa2266")
-		)
-		(pin "4"
-			(uuid "942ad858-3460-46cc-91fc-be5822247042")
-		)
-		(pin "10"
-			(uuid "ed628fd3-05ec-4c28-b257-eede1faea13a")
-		)
-		(pin "1"
-			(uuid "416eda65-e918-4ae0-972e-be00416908ac")
-		)
-		(pin "3"
-			(uuid "b0cd8afb-f6fc-4a7a-b359-d54e5a887487")
-		)
-		(pin "2"
-			(uuid "9b20f3f1-99b1-484c-94b0-3ce3caf4bf77")
-		)
-		(instances
-			(project ""
-				(path "/8a459742-7429-421e-918b-077dc85bb870"
-					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x30")
-		(at 226.06 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ea959838-9a4f-4a5e-9dc8-c0c9f73290c8")
-		(property "Reference" "J3"
-			(at 228.6 100.3299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x30"
-			(at 228.6 102.8699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "_PanelInterconnct:kyocera_fpc_01x30"
-			(at 226.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://ele.kyocera.com/assets/products/connector/6810.pdf"
-			(at 226.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x30, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 226.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr" ""
-			(at 226.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr P/N" ""
-			(at 226.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1" ""
-			(at 226.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 P/N" ""
-			(at 226.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 Unit Price" ""
-			(at 226.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 Price @ Qty" ""
-			(at 226.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2" ""
-			(at 226.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 P/N" ""
-			(at 226.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 Unit Price" ""
-			(at 226.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 Price @ Qty" ""
-			(at 226.06 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "22"
-			(uuid "eed9a99f-95f9-4730-9494-89a7ef8b0ef6")
-		)
-		(pin "27"
-			(uuid "70d75724-cb9c-4c7e-98d5-72d51902dab2")
-		)
-		(pin "10"
-			(uuid "d85b033c-f135-432b-abc7-c57b0c0b67f8")
-		)
-		(pin "14"
-			(uuid "9054a534-b88a-455d-b24a-d9d863edb309")
-		)
-		(pin "11"
-			(uuid "1405d479-10f8-4231-b2ea-15586555b7ad")
-		)
-		(pin "15"
-			(uuid "040f05b2-f5a2-4fed-9ac2-667d85cf21f8")
-		)
-		(pin "16"
-			(uuid "baf8e75b-2d5a-4afe-a37a-8d5686810aae")
-		)
-		(pin "13"
-			(uuid "f1acfa17-8b2f-4245-8649-b0119245b735")
-		)
-		(pin "17"
-			(uuid "0dbc03ed-8029-4a29-91f7-8b7a809d513e")
-		)
-		(pin "3"
-			(uuid "1092110e-9ae1-4f32-b85e-7d8454ba27a5")
-		)
-		(pin "12"
-			(uuid "75419f0a-1bb0-44f0-9960-7b7617972909")
-		)
-		(pin "6"
-			(uuid "dd4bff83-3b82-41e2-b625-39531ffa2f7f")
-		)
-		(pin "24"
-			(uuid "59c36d6b-0661-4310-92a6-e4f295f4556e")
-		)
-		(pin "25"
-			(uuid "2b1a569d-01ac-48c9-a879-580d1165eb3e")
-		)
-		(pin "30"
-			(uuid "279fd0b9-9e0c-42a2-884e-17819122ff20")
-		)
-		(pin "1"
-			(uuid "0d4ea62c-9051-4ee0-9ee1-cf4f093b792a")
-		)
-		(pin "2"
-			(uuid "cda2f7b8-06b1-4b8c-8fec-c6e9050629c2")
-		)
-		(pin "28"
-			(uuid "245f603d-b0bd-43b2-b77f-2be4ce4373ec")
-		)
-		(pin "23"
-			(uuid "9ed98086-30b3-467b-a7ea-2ff2b300800e")
-		)
-		(pin "29"
-			(uuid "83747379-fbf1-4e24-8838-5d555387d427")
-		)
-		(pin "26"
-			(uuid "1a3daf86-90e4-45b8-92f1-cb447f55296f")
-		)
-		(pin "8"
-			(uuid "961eeed4-5005-48c4-83cb-a9a533843750")
-		)
-		(pin "9"
-			(uuid "e4a5be04-7637-4971-b371-4c4bf54bee4c")
-		)
-		(pin "18"
-			(uuid "aa4c5f48-5a17-4112-877a-3e87a3f77c0b")
-		)
-		(pin "7"
-			(uuid "fd22ccb5-6950-4861-be28-800e35907c0d")
-		)
-		(pin "20"
-			(uuid "3c9e0bb9-55eb-49f9-87ea-acfc93a82b5b")
-		)
-		(pin "4"
-			(uuid "00ada49e-414b-49e6-8343-f42c5b1ff61f")
-		)
-		(pin "5"
-			(uuid "afd79bf4-b346-49b6-8da1-607d8e9030c7")
-		)
-		(pin "19"
-			(uuid "4472803c-e3b7-493a-b808-d603fe5f9c42")
-		)
-		(pin "21"
-			(uuid "5769e85a-3eed-418c-a8a8-f57f03c2c7fd")
-		)
-		(instances
-			(project ""
-				(path "/8a459742-7429-421e-918b-077dc85bb870"
-					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Solar_Cell")
-		(at 177.8 80.01 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eda512c8-7832-42bd-b660-24bacc6f1e8c")
-		(property "Reference" "SC8"
-			(at 179.959 71.12 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Maxeon C60"
-			(at 179.959 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "_PanelInterconnct:maxeon_c60"
-			(at 179.324 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://eshop.terms.eu/_data/s_3386/files/1379942540-sunpower_c60_bin_ghi.pdf"
-			(at 179.324 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single solar cell"
-			(at 177.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr" "Maxeon"
-			(at 177.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr P/N" "C60"
-			(at 177.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1" ""
-			(at 177.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 P/N" ""
-			(at 177.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 Unit Price" ""
-			(at 177.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_1 Price @ Qty" ""
-			(at 177.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2" ""
-			(at 177.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 P/N" ""
-			(at 177.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 Unit Price" ""
-			(at 177.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier_2 Price @ Qty" ""
-			(at 177.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b8f7e061-ac14-45ed-8cf7-5917ce6a4ff5")
-		)
-		(pin "1"
-			(uuid "40671f73-29dc-4640-887b-beb107aa4599")
-		)
-		(instances
-			(project "PanelInterconnect"
-				(path "/8a459742-7429-421e-918b-077dc85bb870"
-					(reference "SC8")
 					(unit 1)
 				)
 			)
